@@ -23,13 +23,6 @@ This iOS app allows users to search for and book accommodations similar to Airbn
 - `AccommodationType`: Represents different types of accommodations (e.g., apartment, house, villa).
 - `BookingStatus`: Indicates the status of a booking (e.g., pending, confirmed, canceled).
 
-### 3. API Integration
-
-- The app uses the Airbnb API to retrieve accommodation data, availability, and reviews.
-- API endpoints include:
-  - `/accommodations`: Fetches a list of available accommodations.
-  - `/booking`: Handles booking requests.
-  - `/reviews`: Retrieves reviews for a specific accommodation.
 
 ## Installation
 
