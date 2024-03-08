@@ -11,18 +11,6 @@ This iOS app allows users to search for and book accommodations similar to Airbn
 - **Reviews and Ratings**: Accommodations display user reviews and ratings.
 - **API Integration**: The app communicates with a backend server via json.
 
-## Concepts Demonstrated
-
-### 1. Protocols
-
-- `AccommodationDataProvider`: Defines methods for fetching accommodation data from the server.
-- `BookingDelegate`: Allows communication between the booking flow and other parts of the app.
-
-### 2. Enumerations
-
-- `AccommodationType`: Represents different types of accommodations (e.g., apartment, house, villa).
-- `BookingStatus`: Indicates the status of a booking (e.g., pending, confirmed, canceled).
-
 
 ## Installation
 
