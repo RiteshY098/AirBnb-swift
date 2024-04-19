@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the LICENSE.txt file for det
 
 ---
 
-Feel free to enhance this README with additional sections, screenshots, or any other relevant information. Happy coding! 🚀
+ Happy coding! 🚀
